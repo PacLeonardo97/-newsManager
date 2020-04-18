@@ -35,7 +35,6 @@ public class News implements java.io.Serializable {
 		this.descricao = descricao;
 	}
 	
-	
 	public String getTitulo() {
 		return titulo;
 	}
@@ -43,8 +42,6 @@ public class News implements java.io.Serializable {
 	public void setTitulo(String titulo) {
 		this.titulo= titulo;
 	}
-	
-	
 	
 	public String getTexto() {
 		return texto;
