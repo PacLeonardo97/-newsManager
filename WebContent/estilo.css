@@ -1,0 +1,63 @@
+@charset "UTF-8";
+.texto {
+	font-size: 20px;
+	font-weight: bold;
+}
+.botao { 
+	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 30px;
+ 	font-weight: bold;
+    background-color: #000000; 
+    color: #fffafa; 
+    border:  5px solid #000000;
+ 	border-color: #000000;
+ 	border-radius: 20px;
+    border-left-width: 20px;
+    border-right-width: 20px;
+    border-top-width: 5px;
+	border-bottom-width: 5px;
+	margin: 13px;
+    text-decoration: none;
+}
+.titulo { 
+	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 30px;
+ 	font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+}
+.descricao { 
+	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 20px;
+ 	font-weight: bold;
+ 	font-style: italic;
+    color: #000000;
+    text-decoration: none;
+}
+.noticia { 
+	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 15px;
+    color: #000000;
+    text-decoration: none;
+}
+.nome { 
+	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 20px;
+ 	font-weight: bold;
+    color: #000000;
+    text-decoration: none;
+}
+.comentario { 
+	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 15px;
+    color: #000000;
+    text-decoration: none;
+}
+.logo { 
+	font-family: Arial, Helvetica, sans-serif;
+ 	font-size: 30px;
+ 	font-weight: bold;
+ 	font-style: italic;
+    color: #ffffff;
+    background-color: #000000; 
+}
